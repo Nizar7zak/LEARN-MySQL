@@ -1,3 +1,4 @@
+# Install On MAC OS
 Open up your browser and head over to [MySQL.com ](https://www.mysql.com/).
 
 ![](https://i.imgur.com/BAcjyU9.png)
