@@ -18,7 +18,7 @@
 
 
 ## Create the first Database
-* To create the database for our project download [this file](https://drive.google.com/file/d/1qOxG3w9nzws8BJpOgr1ebY3ld-Iyp9Au/view?usp=share_link)
+* To create the database for our project download [this file](https://drive.google.com/drive/folders/1AvR2mX_bPWd-Y9_Q93GCtPDmjvt-nB-i?usp=sharing))
 * Back to **MySQL** workbench and open the main SQL file
 * Now excute the code and try to explore it.
 
