@@ -16,7 +16,7 @@ Let's start with a quick overview of databases, what they are? and how we use th
 
 **A database is a collection of data stored in a format that can easily be accessed.**
 
-In order o manage our databases, we use a software application called `Database Sanagement System` or **DBMS**. We connect to a DBMS and give it instructions for querying or modifiying data. The DBMS will execute our instructions and send results back. 
+In order o manage our databases, we use a software application called `Database Management System` or **DBMS**. We connect to a DBMS and give it instructions for querying or modifiying data. The DBMS will execute our instructions and send results back. 
 
 ![](https://i.imgur.com/mb41Ku8.png)
 
